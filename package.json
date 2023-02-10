@@ -1,12 +1,12 @@
 {
-  "name": "react-native-text-input-mask",
+  "name": "@Fr3nky88/react-native-text-input-mask",
   "version": "3.1.4",
   "description": "Text input mask for React Native.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-native-community/react-native-text-input-mask"
+    "url": "https://github.com/Fr3nky88/react-native-text-input-mask.git"
   },
   "keywords": [
     "react",
